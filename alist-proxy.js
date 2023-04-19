@@ -1,6 +1,7 @@
 // src/const.ts
-var ADDRESS = "YOUR_ADDRESS";
-var TOKEN = "YOUR_TOKEN";
+var ADDRESS =  http://127.0.0.1:5244;
+var TOKEN = alist-6519d863-f37f-46e0-be53-84f4bf50b695MXEjl4iwNarJPaSnuORXKoJDmOX3pOBSCMU23NNeIPZl0Dq3tuPjwci0A0fzNtYJ
+;
 
 // src/verify.ts
 var verify = async (data, _sign) => {
